@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "title": "Leeds Tech Innovators Conference 2024",
+    "dateTime": "2024-07-15T09:00:00",
+    "location": "Leeds Convention Centre",
+    "description": "Join us for a day of innovation and networking with Leeds' top tech professionals and companies. Keynote speakers include industry leaders and technology pioneers.",
+    "speakers": [
+      {
+        "name": "Dr. Jane Smith",
+        "topic": "The Future of AI in Healthcare",
+        "avatarUrl": "https://i.pravatar.cc/300?id=1"
+      },
+      {
+        "name": "John Doe",
+        "topic": "Blockchain Beyond Cryptocurrency",
+        "avatarUrl": "https://i.pravatar.cc/300?id=2"
+      }
+    ],
+    "sponsors": [
+      {
+        "name": "TechCorp",
+        "logoUrl": "https://picsum.photos/200?id=1"
+      },
+      {
+        "name": "Innovate Leeds",
+        "logoUrl": "https://picsum.photos/200?id=2"
+      },
+      {
+        "name": "NextGen Tech",
+        "logoUrl": "https://picsum.photos/200?id=3"
+      }
+    ],
+    "registrationUrl": "https://leeds-tech-innovators-2024.com/register"
+  },
+  {
+    "id": "2",
+    "title": "Leeds Startup Week",
+    "dateTime": "2024-08-10T10:00:00",
+    "location": "Leeds Digital Hub",
+    "description": "A week-long event focused on nurturing and supporting startups in the tech industry. Workshops, mentorship sessions, and pitch competitions will be held.",
+    "speakers": [
+      {
+        "name": "Alice Johnson",
+        "topic": "Scaling Your Tech Startup",
+        "avatarUrl": "https://i.pravatar.cc/300?id=3"
+      },
+      {
+        "name": "Michael Brown",
+        "topic": "Investment Strategies for Startups",
+        "avatarUrl": "https://i.pravatar.cc/300?id=4"
+      }
+    ],
+    "sponsors": [
+      {
+        "name": "Startup Leeds",
+        "logoUrl": "https://picsum.photos/200?id=4"
+      },
+      {
+        "name": "Leeds Tech Network",
+        "logoUrl": "https://picsum.photos/200?id=5"
+      },
+      {
+        "name": "Global Ventures",
+        "logoUrl": "https://picsum.photos/200?id=6"
+      }
+    ],
+    "registrationUrl": "https://leeds-startup-week.com/register"
+  },
+  {
+    "id": "3",
+    "title": "Women in Tech Leeds Summit",
+    "dateTime": "2024-09-05T08:30:00",
+    "location": "Leeds Innovation Centre",
+    "description": "A summit dedicated to empowering women in technology through inspiring talks, panels, and networking opportunities.",
+    "speakers": [
+      {
+        "name": "Rachel Green",
+        "topic": "Breaking Barriers in Tech",
+        "avatarUrl": "https://i.pravatar.cc/300?id=5"
+      },
+      {
+        "name": "Emma White",
+        "topic": "Leadership in the Tech Industry",
+        "avatarUrl": "https://i.pravatar.cc/300?id=6"
+      }
+    ],
+    "sponsors": [
+      {
+        "name": "WomenTech Network",
+        "logoUrl": "https://picsum.photos/200?id=7"
+      },
+      {
+        "name": "Leeds Women in Business",
+        "logoUrl": "https://picsum.photos/200?id=8"
+      },
+      {
+        "name": "EmpowerTech",
+        "logoUrl": "https://picsum.photos/200?id=9"
+      }
+    ],
+    "registrationUrl": "https://women-in-tech-leeds-summit.com/register"
+  },
+  {
+    "id": "4",
+    "title": "Leeds AI & Data Science Expo",
+    "dateTime": "2024-10-22T11:00:00",
+    "location": "Leeds Data Centre",
+    "description": "Explore the latest advancements in AI and data science with exhibitors showcasing innovative solutions and technologies. Attend expert-led sessions and hands-on workshops.",
+    "speakers": [
+      {
+        "name": "Dr. Alan Turner",
+        "topic": "AI Ethics and Responsibility",
+        "avatarUrl": "https://i.pravatar.cc/300?id=7"
+      },
+      {
+        "name": "Laura Stevens",
+        "topic": "Big Data Analytics Trends",
+        "avatarUrl": "https://i.pravatar.cc/300?id=8"
+      }
+    ],
+    "sponsors": [
+      {
+        "name": "DataLeeds",
+        "logoUrl": "https://picsum.photos/200?id=10"
+      },
+      {
+        "name": "AI Innovators",
+        "logoUrl": "https://picsum.photos/200?id=11"
+      },
+      {
+        "name": "TechVision",
+        "logoUrl": "https://picsum.photos/200?id=12"
+      }
+    ],
+    "registrationUrl": "https://leeds-ai-data-expo.com/register"
+  },
+  {
+    "id": "5",
+    "title": "Leeds Cybersecurity Summit",
+    "dateTime": "2024-11-15T09:30:00",
+    "location": "Leeds SecureTech Campus",
+    "description": "A comprehensive summit addressing the latest threats and solutions in cybersecurity. Hear from experts on how to protect your organization in the digital age.",
+    "speakers": [
+      {
+        "name": "Dr. Sophie Williams",
+        "topic": "Cyber Threats in 2024",
+        "avatarUrl": "https://i.pravatar.cc/300?id=9"
+      },
+      {
+        "name": "David Brown",
+        "topic": "Building a Robust Cyber Defense",
+        "avatarUrl": "https://i.pravatar.cc/300?id=10"
+      }
+    ],
+    "sponsors": [
+      {
+        "name": "SecureLeeds",
+        "logoUrl": "https://picsum.photos/200?id=13"
+      },
+      {
+        "name": "CyberGuard",
+        "logoUrl": "https://picsum.photos/200?id=14"
+      },
+      {
+        "name": "TechShield",
+        "logoUrl": "https://picsum.photos/200?id=15"
+      }
+    ],
+    "registrationUrl": "https://leeds-cybersecurity-summit.com/register"
+  }
+]
